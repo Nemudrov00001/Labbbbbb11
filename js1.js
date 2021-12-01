@@ -82,10 +82,10 @@ $(document).ready(function(){
 	$(imgLock).appendTo(Form).attr("id","imgLock").css("position","relative").attr("src","user 1.svg");
     
     var imgPassword = $('<img>');
-	$(imgPassword).appendTo(Form).attr("id","imgPassword").css("position","relative").attr("src","vec.svg");
+	$(imgPassword).appendTo(Form).attr("id","imgPassword").css("position","relative").attr("src","vec1.svg");
 
     var imgConfrim = $('<img>');
-	$(imgConfrim).appendTo(Form).attr("id","imgConfrim").css("position","relative").attr("src","vec.svg");
+	$(imgConfrim).appendTo(Form).attr("id","imgConfrim").css("position","relative").attr("src","vec2.svg");
 
 	var smicons = $('<div>');
 	$(smicons).attr("id","smicons").appendTo(head).css("position","absolute");
